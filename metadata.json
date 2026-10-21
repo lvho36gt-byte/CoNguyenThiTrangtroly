@@ -1,0 +1,6 @@
+{
+  "name": "English Spark – AI Đồng Hành Cùng Học Sinh Tiểu Học",
+  "description": "Nền tảng EdTech AI tương tác phát triển năng lực giao tiếp tiếng Anh cho học sinh tiểu học (Lớp 1-5) theo mô hình 5 bước sư phạm của cô giáo Nguyễn Thị Trang (TH Khoái Châu 1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
